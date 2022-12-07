@@ -1,4 +1,4 @@
-# get-up-early
+# get up early
 My date looks at me wrong, she used to sleep late, and I get up early. 我的对象看我不对劲了，以前都是她睡的很晚，而我起的很早。 Now it's the other way around.  而现在是反过来了。 She keeps sending me high-level recruitment JD, I have a headache, I think I have to get up early and work hard. 她不停的发给我高等级的招聘JD，我头疼，我想我要早起努力了。
 
 ## todolist
@@ -33,3 +33,6 @@ https://github.com/aiyoudiao/Qxy-Mid-Autumn-Festival-Fireworks
 
 https://github.com/aiyoudiao/Qxy-Beating-Heart-Meteor-Showers  
 [Qxy-Beating-Heart-Meteor-Showers](https://aiyoudiao.github.io/Qxy-Beating-Heart-Meteor-Showers/)
+
+## records
+
