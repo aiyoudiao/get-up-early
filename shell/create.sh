@@ -5,5 +5,5 @@ fileTitle=`date +%Y-%m-%d`" "`date +%H:%M:%S`
 mkdir -v $dirDate
 mkdir -v $dirDate/$dirDate2
 touch $dirDate/$dirDate2/$fileDate.md
-echo "## " $fileTitle > $dirDate/$dirDate2/$fileDate.md
+echo "## " $fileTitle"\r\n" > $dirDate/$dirDate2/$fileDate.md
 echo "["$fileTitle"]""(./"$dirDate/$dirDate2/$fileDate.md")  " >> README.md
