@@ -20,19 +20,22 @@ My date looks at me wrong, she used to sleep late, and I get up early. 我的对
 ## links
 
 https://github.com/aiyoudiao/time-and-space-clock  
-[time-and-space-clock](https://aiyoudiao.github.io/time-and-space-clock/)   
+[时钟 Demo](https://aiyoudiao.github.io/time-and-space-clock/)   
 
 https://github.com/aiyoudiao/know-you-of-time  
-[know-you-of-time](https://aiyoudiao.github.io/know-you-of-time/)  
+[相识的时间 Demo](https://aiyoudiao.github.io/know-you-of-time/)  
 
 https://github.com/aiyoudiao/happy-holidays-countdown  
-[happy-holidays-countdown](https://aiyoudiao.github.io/happy-holidays-countdown/)   
+[节日倒计时 Demo](https://aiyoudiao.github.io/happy-holidays-countdown/)   
 
 https://github.com/aiyoudiao/Qxy-Mid-Autumn-Festival-Fireworks  
-[Qxy-Mid-Autumn-Festival-Fireworks](https://aiyoudiao.github.io/Qxy-Mid-Autumn-Festival-Fireworks/)
+[中秋节烟花 Demo](https://aiyoudiao.github.io/Qxy-Mid-Autumn-Festival-Fireworks/)
 
 https://github.com/aiyoudiao/Qxy-Beating-Heart-Meteor-Showers  
-[Qxy-Beating-Heart-Meteor-Showers](https://aiyoudiao.github.io/Qxy-Beating-Heart-Meteor-Showers/)
+[心动与流星雨 Demo](https://aiyoudiao.github.io/Qxy-Beating-Heart-Meteor-Showers/)
+
+https://github.com/aiyoudiao/Qxy-Chinese-Year-Festival-Fireworks  
+[过年烟花 Demo](https://aiyoudiao.github.io/Qxy-Chinese-Year-Festival-Fireworks/)
 
 ## records
 
