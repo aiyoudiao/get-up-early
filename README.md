@@ -37,6 +37,9 @@ https://github.com/aiyoudiao/Qxy-Beating-Heart-Meteor-Showers
 https://github.com/aiyoudiao/Qxy-Chinese-Year-Festival-Fireworks  
 [过年烟花 Demo](https://aiyoudiao.github.io/Qxy-Chinese-Year-Festival-Fireworks/)
 
+https://github.com/aiyoudiao/password-generator  
+[密码生成器 Demo](https://aiyoudiao.github.io/password-generator)  
+
 ## records
 
 [2022-12-08 06:22:58](./2022/12/20221208-062258.md)  
