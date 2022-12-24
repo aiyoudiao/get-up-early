@@ -43,6 +43,9 @@ https://github.com/aiyoudiao/password-generator
 https://github.com/aiyoudiao/QXY-Merry-Christmas  
 [圣诞礼物 Demo](https://aiyoudiao.github.io/QXY-Merry-Christmas/#xq#music#transparent#my-love)  
 
+https://github.com/aiyoudiao/QXY-Christmas-Eve  
+[平安夜雪晶球 Demo](https://aiyoudiao.github.io/QXY-Christmas-Eve)  
+
 ## records
 
 [2022-12-08 06:22:58](./2022/12/20221208-062258.md)  
