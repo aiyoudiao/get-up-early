@@ -10,6 +10,9 @@ After I got Dabao a few gifts, she stopped pressing me. 我给大宝整了几个
 1. Supervise my English study at least half an hour every day. 监督我学英语，每天至少整半个小时。 Half a year later I achieved the effect of freedom of speech with foreigners. 半年后我达到要和外国人言论自由的效果。
 2. Supervise me to make up for weaknesses in technology, management, mentality and character, sideline and health, etc. 监督我补短板，技术短板、管理短板、心态及性格短板、副业及健康方面的短板等等。
 
+> Dabao agreed, said to change a form, do not take the initiative to destroy me. 大宝同意了，说是换一种形式，不主动摧我。 I volunteered to get up early to look for her, which I didn't do that day, and then ignored me that day, no matter what. 我主动早起找她，我那天没这么做，那天就不理我了，无论咋样都对我不理睬。
+
+---
 
 ## todolist
 
