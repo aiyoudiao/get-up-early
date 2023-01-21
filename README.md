@@ -59,6 +59,9 @@ https://github.com/aiyoudiao/QXY-Merry-Christmas
 https://github.com/aiyoudiao/QXY-Christmas-Eve  
 [平安夜雪晶球 Demo](https://aiyoudiao.github.io/QXY-Christmas-Eve)  
 
+https://github.com/aiyoudiao/Qxy-3d-Photo-Album
+[3D相册 Demo](https://aiyoudiao.github.io/Qxy-3d-Photo-Album)
+
 ## records
 
 [2022-12-08 06:22:58](./2022/12/20221208-062258.md)  
