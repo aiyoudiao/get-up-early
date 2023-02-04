@@ -60,7 +60,10 @@ https://github.com/aiyoudiao/QXY-Christmas-Eve
 [平安夜雪晶球 Demo](https://aiyoudiao.github.io/QXY-Christmas-Eve)  
 
 https://github.com/aiyoudiao/Qxy-3d-Photo-Album  
-[3D相册 Demo](https://aiyoudiao.github.io/Qxy-3d-Photo-Album)   
+[3D相册 Demo](https://aiyoudiao.github.io/Qxy-3d-Photo-Album)  
+
+https://github.com/aiyoudiao/fly-ha-ha-ha-ha  
+[飞行游戏 Demo](https://aiyoudiao.github.io/fly-ha-ha-ha-ha)  
 
 
 ## records
