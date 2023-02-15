@@ -65,6 +65,9 @@ https://github.com/aiyoudiao/Qxy-3d-Photo-Album
 https://github.com/aiyoudiao/fly-ha-ha-ha-ha  
 [飞行游戏 Demo](https://aiyoudiao.github.io/fly-ha-ha-ha-ha)  
 
+https://github.com/aiyoudiao/qxy-love-2023-214  
+[214小卡片 Demo](https://aiyoudiao.github.io/qxy-love-2023-214)  
+
 
 ## records
 
@@ -94,3 +97,4 @@ https://github.com/aiyoudiao/fly-ha-ha-ha-ha
 [2023-02-06 07:19:57](./2023/02/20230206-071957.md)  
 [2023-02-07 07:27:55](./2023/02/20230207-072755.md)  
 [2023-02-09 08:04:10](./2023/02/20230209-080410.md)  
+[2023-02-16 06:09:27](./2023/02/20230216-060927.md)  
